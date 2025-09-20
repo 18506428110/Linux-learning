@@ -136,8 +136,11 @@ Docker 是一种开源的 容器化 技术，它允许开发者将应用程序�
 
 
 <font color=0#8009 size=4 face="黑体">
+
 参考视频来自Youtube，感谢以下各位博主的分享！
 
 [参考视频1](https://www.youtube.com/watch?v=Ozb9mZg7MVM)
 [参考视频2](https://www.youtube.com/watch?v=8hNSP_nbPy0)
 [参考视频3](https://www.youtube.com/watch?v=zqRVrj64QmA)
+
+搜索公众号“具身AI前线”，回复docker即可下载！
